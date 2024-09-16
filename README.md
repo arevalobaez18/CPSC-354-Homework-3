@@ -5,7 +5,7 @@ E-Mail: arevalobaez@chapman.edu <br>
 Course Section: CPSC 354 - Section 3 <br>
 LLM Model: Microsoft Copilot <br>
 
-## Summary
+## General Idea
 There is an abundence of various, unique programming languages out there, but why do a lot of developers prefer to stick with certain, prominent industry-standard languages instead? What is the point of other languages existing while there are other much more powerful and widely supported languages out there that dominate the industry? These are various questions that I have asked Microsoft Copilot (powered by GPT-4) to answer in hopes of gaining a better understanding of the advantages these languages hold over the others, and understanding why many developers still continue to improve on these other niche languages while the more prominent ones continue to be preferred by many companies and studios.
 
 ## Learned Concepts
